@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quiz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="student_tabed">Student</string>
+    <string name="student_prevquizs">Previous quizzes</string>
+    <string name="student_takequiz"> take a quiz</string>
+    <string name="instructor_prevquizs">Previous quizzes</string>
+    <string name="instructor_makequiz"> make a quiz</string>
+    <string name="instructor_statistics"> statistics</string>
+    <string name="action_messages">send email</string>
+    <string name="action_search">search</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">Ok</string>
+    <string name="alert">Do you want to Logout?</string>
+    <string name="out">Do you want to Exit?</string>
+    <string name="grade">Your Grade is : </string>
+    <string name="ss">ss</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_student">student</string>
+    <string name="title_activity_quiz">quiz</string>
+    <string name="title_activity_instructor">instructor</string>
+    <string name="title_section3">Section 3</string>
+    <string name="tag">tag</string>
+    <string name="mail">mailto:fadyfares2006@yahoo.com</string>
+    <string name="title_activity_finish">finish</string>
+    <string name="title_activity_fady2">fady2</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_activity_main_activity2">MainActivity2</string>
+    <string name="title_activity_makeQuiz">makeQuiz</string>
+    <string name="title_activity_line_chart">line_chart</string>
+
+</resources>

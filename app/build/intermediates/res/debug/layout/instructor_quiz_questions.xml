@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/bg"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="78dp"
+                android:layout_height="102dp"
+                android:id="@+id/imageView2"
+                android:src="@drawable/logooo" />
+        </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Question"
+        android:id="@+id/text_view_question"
+        android:textSize="20dp" />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="write your question here"
+        android:id="@+id/text_field_question"
+        android:textSize="15dp" />
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Answer"
+        android:id="@+id/text_view_answer"
+        android:layout_weight="1"
+        android:textSize="20dp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="write your answer here"
+        android:id="@+id/text_field_ans1"
+        android:layout_gravity="center_horizontal"
+        android:textSize="15dp" />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="write your answer here"
+        android:id="@+id/text_field_ans2"
+        android:textSize="15dp" />
+
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="write your answer here"
+        android:id="@+id/text_field_ans3"
+        android:textSize="15dp" />
+
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="write your answer here"
+        android:id="@+id/text_field_ans4"
+        android:textSize="15dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CorrectAnswer"
+        android:id="@+id/text_view_correct_answer"
+        android:textSize="20dp" />
+
+    <Spinner
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinner_choices"
+        android:spinnerMode="dropdown" />
+
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:weightSum="1"
+            android:gravity="center">
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="48dp"
+                android:layout_height="53dp"
+                android:id="@+id/button_back"
+                android:background="@drawable/back"
+                android:onClick="back"/>
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="finish"
+                android:id="@+id/button_finish"
+                android:background="#f00f3b75"
+                android:textColor="#ffffffff"
+
+                android:onClick="finish"
+                android:layout_marginRight="15pt"
+                android:layout_marginLeft="15pt"
+                android:layout_weight="0.18"
+                android:layout_gravity="center"
+                android:gravity="center" />
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="48dp"
+                android:layout_height="53dp"
+                android:id="@+id/button_next"
+                android:background="@drawable/next"
+                android:onClick="next"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView><!-- From: file:/D:/CSE%203%20projects/android/Quiz/Quiz_modify1/app/src/main/res/layout/instructor_quiz_questions.xml -->

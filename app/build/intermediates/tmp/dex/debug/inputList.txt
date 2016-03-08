@@ -1,0 +1,12 @@
+D:\Quiz_modify1_Arwa\Quiz_modify1\app\build\intermediates\classes\debug
+D:\Quiz_modify1_Arwa\Quiz_modify1\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-d1175057ecb343e5efee6edfd9354efbec0e4acd.jar
+D:\Quiz_modify1_Arwa\Quiz_modify1\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-2.0.0-6227835cd9fc3ca42e6786ec60c7ab7a892c805a.jar
+D:\Quiz_modify1_Arwa\Quiz_modify1\app\build\intermediates\pre-dexed\debug\okio-1.0.0-a4d9e9a3ae1d1cdc9b22040d37741a3d4df4b509.jar
+D:\Quiz_modify1_Arwa\Quiz_modify1\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-1d42e7fcc22718dcd422343b02049851059bb13b.jar
+D:\Quiz_modify1_Arwa\Quiz_modify1\app\build\intermediates\pre-dexed\debug\achartengine-1.1.0-5f3dd3d3342a399519182e62434e0969a9326475.jar
+D:\Quiz_modify1_Arwa\Quiz_modify1\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-748ca078e125f58e9a2180d2bcbf3598f90a07b6.jar
+D:\Quiz_modify1_Arwa\Quiz_modify1\app\build\intermediates\pre-dexed\debug\gson-2.3.1-123cc28d7a2eeb44883e0ad26ed3575a11c13e98.jar
+D:\Quiz_modify1_Arwa\Quiz_modify1\app\build\intermediates\pre-dexed\debug\androidplot-core-0.6.1-262fa5aed4fa8f0934db525d60e9d039b2e6ecde.jar
+D:\Quiz_modify1_Arwa\Quiz_modify1\app\build\intermediates\pre-dexed\debug\okhttp-2.0.0-46d6213a0744ea8f4a2e25bcf169217c20b13b4c.jar
+D:\Quiz_modify1_Arwa\Quiz_modify1\app\build\intermediates\pre-dexed\debug\classes-d9aba2c076e7e2c838380e1ebbf6fdae4a591e97.jar
+D:\Quiz_modify1_Arwa\Quiz_modify1\app\build\intermediates\pre-dexed\debug\classes-0b9db98a34d2f83dc4a85b3c081c50638abb3d8c.jar

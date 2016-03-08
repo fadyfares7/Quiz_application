@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/bg"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="78dp"
+            android:layout_height="102dp"
+            android:id="@+id/imageView2"
+            android:src="@drawable/logooo" />
+    </LinearLayout>
+
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="40dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Seat Number"
+            android:id="@+id/textView6"
+            android:layout_weight="2"/>
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:hint="Enter seat number"
+            android:ems="10"
+            android:id="@+id/seat_number"
+            android:layout_weight="2"
+            android:maxLength="20"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Line Chart"
+        android:id="@+id/line_chart"
+        android:gravity="center|center_horizontal"
+        android:background="#f00f3b75"
+        android:textColor="#ffffffff"
+        android:textSize="25dp"
+        android:textAlignment="center"
+        android:layout_weight="0.07"
+        android:onClick="line_chart"
+        android:layout_marginLeft="30pt"
+        android:layout_marginRight="30pt"
+        android:layout_marginTop="10pt" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Pie Chart"
+        android:id="@+id/pie_chart"
+
+        android:onClick="pie_chart"
+        android:background="#f00f3b75"
+        android:textColor="#ffffffff"
+        android:textSize="25dp"
+        android:textAlignment="center"
+
+        android:layout_marginLeft="30pt"
+        android:layout_marginRight="30pt"
+        android:layout_marginTop="10pt"
+        android:gravity="center" />/>
+    </LinearLayout>
+
+
+
+</LinearLayout>

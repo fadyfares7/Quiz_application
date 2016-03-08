@@ -1,0 +1,5 @@
+<android.support.v4.view.ViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/pager"
+    android:layout_width="fill_parent" android:layout_height="fill_parent"
+    tools:context="com.example.fady.quiz.student" />
+<!-- From: file:/D:/CSE%203%20projects/android/Quiz/Quiz_modify1/app/src/main/res/layout/student.xml -->
